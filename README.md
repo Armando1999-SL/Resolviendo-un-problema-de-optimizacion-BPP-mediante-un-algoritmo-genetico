@@ -40,3 +40,9 @@ Nuestra implementación ha mostrado soluciones muy cercanas al óptimo en divers
 ---
 
 Este proyecto es una muestra del uso efectivo de técnicas de inteligencia artificial inspiradas en la naturaleza para resolver problemas computacionales complejos.
+
+**Problema de empaquetamiento de contenedores**
+![BPP](image.png)
+
+**Diseño del algoritmo genético**
+![Algoritmo genetico](dibujo.png)
